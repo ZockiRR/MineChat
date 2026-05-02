@@ -54,7 +54,7 @@ public class Main extends Application {
 	public static boolean isGuiOpen = false;
 
 	public static void test(String[] args) throws Exception {
-		launch(args);
+		launch(Main.class, args);
 
         //First open the frame, then load all channels and add them live into frame.
 

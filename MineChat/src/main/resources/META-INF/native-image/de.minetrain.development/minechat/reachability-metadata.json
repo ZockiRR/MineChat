@@ -1,0 +1,30 @@
+{
+  "reflection": [
+    { "type": "org.eclipse.store.afs.nio.types.NioReadableFile$Default[]" },
+    { "type": "org.eclipse.store.afs.nio.types.NioReadableFile$Default",  "allDeclaredFields": true, "unsafeAllocated": true },
+    { "type": "org.eclipse.store.afs.nio.types.NioWritableFile$Default[]" },
+    { "type": "org.eclipse.store.afs.nio.types.NioWritableFile$Default",  "allDeclaredFields": true, "unsafeAllocated": true },
+    { "type": "org.eclipse.serializer.afs.types.AReadableFile[]" },
+    { "type": "org.eclipse.serializer.afs.types.AWritableFile[]" },
+    {
+      "type": {
+        "proxy": ["com.github.twitch4j.helix.TwitchHelix"]
+      }
+    },
+    {
+      "type": {
+        "proxy": ["com.github.twitch4j.extensions.TwitchExtensions"]
+      }
+    },
+    {
+      "type": {
+        "proxy": ["com.github.twitch4j.kraken.TwitchKraken"]
+      }
+    },
+    {
+      "type": {
+        "proxy": ["com.github.twitch4j.tmi.TwitchMessagingInterface"]
+      }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "includes": [
+      { "pattern": "client\\.id" },
+      { "pattern": "log4j\\.properties" },
+      { "pattern": "version\\.properties" },
+      { "pattern": "style_v2\\.css" }
+    ]
+  }
+}

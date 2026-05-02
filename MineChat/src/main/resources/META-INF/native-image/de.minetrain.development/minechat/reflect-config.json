@@ -1,0 +1,821 @@
+[
+    {
+        "name": "com.github.benmanes.caffeine.cache.SSMSA",
+        "allPublicConstructors": true,
+        "allDeclaredConstructors": true
+    },
+    {
+        "name": "com.github.benmanes.caffeine.cache.SSMS",
+        "allPublicConstructors": true,
+        "allDeclaredConstructors": true
+    },
+    {
+        "name": "com.github.benmanes.caffeine.cache.SSLMS",
+        "allPublicConstructors": true,
+        "allDeclaredConstructors": true
+    },
+    {
+        "name": "com.github.benmanes.caffeine.cache.SSLMSA",
+        "allPublicConstructors": true,
+        "allDeclaredConstructors": true
+    },
+    {
+        "name": "com.github.benmanes.caffeine.cache.SSWMS",
+        "allPublicConstructors": true,
+        "allDeclaredConstructors": true
+    },
+    {
+        "name": "com.github.benmanes.caffeine.cache.SSWMSA",
+        "allPublicConstructors": true,
+        "allDeclaredConstructors": true
+    },
+    {
+        "name": "com.github.benmanes.caffeine.cache.SSA",
+        "allPublicConstructors": true,
+        "allDeclaredConstructors": true
+    },
+    {
+        "name": "com.github.benmanes.caffeine.cache.SS",
+        "allPublicConstructors": true,
+        "allDeclaredConstructors": true
+    },
+    {
+        "name": "com.github.benmanes.caffeine.cache.SSL",
+        "allPublicConstructors": true,
+        "allDeclaredConstructors": true
+    },
+    {
+        "name": "com.github.benmanes.caffeine.cache.SSLA",
+        "allPublicConstructors": true,
+        "allDeclaredConstructors": true
+    },
+    {
+        "name": "com.github.benmanes.caffeine.cache.SSW",
+        "allPublicConstructors": true,
+        "allDeclaredConstructors": true
+    },
+    {
+        "name": "com.github.benmanes.caffeine.cache.SSWA",
+        "allPublicConstructors": true,
+        "allDeclaredConstructors": true
+    },
+    {
+        "name": "com.github.benmanes.caffeine.cache.SSWLA",
+        "allPublicConstructors": true,
+        "allDeclaredConstructors": true
+    },
+    {
+        "name": "com.github.benmanes.caffeine.cache.PSAMS",
+        "allPublicConstructors": true,
+        "allDeclaredConstructors": true
+    },
+    {
+        "name": "com.github.benmanes.caffeine.cache.PSAM",
+        "allPublicConstructors": true,
+        "allDeclaredConstructors": true
+    },
+    {
+        "name": "com.github.benmanes.caffeine.cache.PSAW",
+        "allPublicConstructors": true,
+        "allDeclaredConstructors": true
+    },
+    {
+        "name": "com.github.benmanes.caffeine.cache.PSAWMS",
+        "allPublicConstructors": true,
+        "allDeclaredConstructors": true
+    },
+    {
+        "name": "com.github.benmanes.caffeine.cache.PSA",
+        "allPublicConstructors": true,
+        "allDeclaredConstructors": true
+    },
+    {
+        "name": "com.github.benmanes.caffeine.cache.PSAS",
+        "allPublicConstructors": true,
+        "allDeclaredConstructors": true
+    },
+    {
+        "name": "com.github.benmanes.caffeine.cache.PSAWS",
+        "allPublicConstructors": true,
+        "allDeclaredConstructors": true
+    },
+    {
+        "name": "java.util.BitSet",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.Collections",
+        "allDeclaredClasses": true
+    },
+    {
+        "name": "java.util.Collections$SetFromMap",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.Collections$UnmodifiableNavigableSet",
+        "allDeclaredFields": true,
+        "allDeclaredClasses": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.Collections$UnmodifiableNavigableSet$EmptyNavigableSet",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.Collections$UnmodifiableNavigableMap",
+        "allDeclaredFields": true,
+        "allDeclaredClasses": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.Collections$UnmodifiableNavigableMap$EmptyNavigableMap",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.Collections$SynchronizedCollection",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.Collections$SynchronizedList",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.Collections$SynchronizedRandomAccessList",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.Collections$SynchronizedSet",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.Collections$SynchronizedSortedSet",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.Collections$SynchronizedMap",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.Collections$SynchronizedSortedMap",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.Collections$UnmodifiableCollection",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.Collections$UnmodifiableList",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.Collections$UnmodifiableRandomAccessList",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.Collections$UnmodifiableSet",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.Collections$UnmodifiableSortedSet",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.Collections$UnmodifiableMap",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.Collections$UnmodifiableSortedMap",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.ImmutableCollections$List12",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.ImmutableCollections$ListN",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.ImmutableCollections$Set12",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.ImmutableCollections$SetN",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.ImmutableCollections$Map1",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.ImmutableCollections$MapN",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.TreeMap",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.TreeSet",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.HashMap",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.LinkedHashMap",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.HashSet",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.LinkedHashSet",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.ArrayList",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.LinkedList",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.ArrayDeque",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.PriorityQueue",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.Vector",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.Stack",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.Hashtable",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.Properties",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.Date",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.Optional",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.OptionalInt",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.OptionalLong",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.OptionalDouble",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.concurrent.ConcurrentHashMap",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.concurrent.CopyOnWriteArrayList",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.concurrent.CopyOnWriteArraySet",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.concurrent.ConcurrentLinkedQueue",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.concurrent.ConcurrentLinkedDeque",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.concurrent.LinkedBlockingQueue",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.concurrent.LinkedBlockingDeque",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.concurrent.PriorityBlockingQueue",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.concurrent.ConcurrentSkipListMap",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.concurrent.ConcurrentSkipListSet",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.concurrent.ArrayBlockingQueue",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.concurrent.DelayQueue",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.concurrent.SynchronousQueue",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.util.concurrent.LinkedTransferQueue",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "org.eclipse.serializer.collections.EqBulkList",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "org.eclipse.serializer.collections.EqHashTable",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "org.eclipse.serializer.collections.EqHashEnum",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "org.eclipse.serializer.collections.BulkList",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "org.eclipse.serializer.collections.HashTable",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "org.eclipse.serializer.collections.HashEnum",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "org.eclipse.serializer.collections.LimitList",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "org.eclipse.serializer.collections.ConstList",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "org.eclipse.serializer.collections.ConstHashTable",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "org.eclipse.serializer.collections.ConstHashEnum",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "org.eclipse.serializer.collections.EqConstHashEnum",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "org.eclipse.serializer.collections.EqConstHashTable",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "org.eclipse.serializer.collections.Empty",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "org.eclipse.serializer.collections.EmptyTable",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "org.eclipse.serializer.collections.Singleton",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "org.eclipse.serializer.collections.SingletonView",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "org.eclipse.serializer.collections.FixedList",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "org.eclipse.serializer.collections.SubList",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "org.eclipse.serializer.collections.View",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "org.eclipse.serializer.collections.ListView",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "org.eclipse.serializer.hashing.XHashing",
+        "allDeclaredClasses": true
+    },
+    {
+        "name": "org.eclipse.serializer.hashing.XHashing$SingletonValueHashEqualator",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "org.eclipse.serializer.hashing.XHashing$IdentityHashEqualator",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "org.eclipse.serializer.hashing.XHashing$ValueHashEqualator",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "org.eclipse.serializer.equality.Equalator",
+        "allDeclaredClasses": true
+    },
+    {
+        "name": "org.eclipse.serializer.collections.lazy.LazyArrayList",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "org.eclipse.serializer.collections.lazy.LazyArrayList$Segment",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "org.eclipse.serializer.collections.lazy.LazyHashMap",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "org.eclipse.serializer.collections.lazy.LazyHashMap$Segment",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "org.eclipse.serializer.collections.lazy.LazyHashSet",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "org.eclipse.serializer.collections.lazy.LazyHashSet$Segment",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "de.minetrain.minechat.data.eclipsestore.EclipseStoreRoot",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "de.minetrain.minechat.data.objectdata.AutoReplies",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "de.minetrain.minechat.data.objectdata.AutoReply",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "de.minetrain.minechat.data.objectdata.Badge",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "de.minetrain.minechat.data.objectdata.BadgeId",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "de.minetrain.minechat.data.objectdata.Badges",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "de.minetrain.minechat.data.objectdata.Channel",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "de.minetrain.minechat.data.objectdata.Channels",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "de.minetrain.minechat.data.objectdata.ChatMessage",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "de.minetrain.minechat.data.objectdata.ChatMessageToken",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "de.minetrain.minechat.data.objectdata.CountVariable",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "de.minetrain.minechat.data.objectdata.CountVariables",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "de.minetrain.minechat.data.objectdata.Credentials",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "de.minetrain.minechat.data.objectdata.Emote",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "de.minetrain.minechat.data.objectdata.Emotes",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "de.minetrain.minechat.data.objectdata.Macro",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "de.minetrain.minechat.data.objectdata.Macros",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "de.minetrain.minechat.data.objectdata.Messages",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "de.minetrain.minechat.data.objectdata.UserSettings",
+        "allDeclaredFields": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "de.minetrain.minechat.gui.emotes.EmoteType",
+        "allDeclaredFields": true,
+        "allDeclaredMethods": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "de.minetrain.minechat.config.enums.ReplyType",
+        "allDeclaredFields": true,
+        "allDeclaredMethods": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "de.minetrain.minechat.config.enums.AutoReplyState",
+        "allDeclaredFields": true,
+        "allDeclaredMethods": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "de.minetrain.minechat.config.enums.UndoVariation",
+        "allDeclaredFields": true,
+        "allDeclaredMethods": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "java.lang.Enum",
+        "allDeclaredFields": true,
+        "allDeclaredMethods": true,
+        "unsafeAllocated": true
+    },
+    {
+        "name": "org.apache.log4j.ConsoleAppender",
+        "allDeclaredFields": true,
+        "allPublicConstructors": true,
+        "allDeclaredConstructors": true,
+        "allDeclaredMethods": true
+    },
+    {
+        "name": "org.apache.log4j.FileAppender",
+        "allDeclaredFields": true,
+        "allPublicConstructors": true,
+        "allDeclaredConstructors": true,
+        "allDeclaredMethods": true
+    },
+    {
+        "name": "org.apache.log4j.PatternLayout",
+        "allDeclaredFields": true,
+        "allPublicConstructors": true,
+        "allDeclaredConstructors": true,
+        "allDeclaredMethods": true
+    },
+    {
+        "name": "org.apache.log4j.WriterAppender",
+        "allDeclaredFields": true,
+        "allPublicConstructors": true,
+        "allDeclaredConstructors": true,
+        "allDeclaredMethods": true
+    },
+    {
+        "name": "com.sun.javafx.tk.quantum.QuantumToolkit",
+        "allDeclaredFields": true,
+        "allPublicConstructors": true,
+        "allDeclaredConstructors": true,
+        "allDeclaredMethods": true
+    },
+    {
+        "name": "com.sun.javafx.tk.quantum.MasterTimer",
+        "allDeclaredFields": true,
+        "allPublicConstructors": true,
+        "allDeclaredConstructors": true,
+        "allDeclaredMethods": true
+    },
+    {
+        "name": "com.sun.javafx.scene.text.GlyphList",
+        "allDeclaredFields": true,
+        "allPublicConstructors": true,
+        "allDeclaredConstructors": true,
+        "allDeclaredMethods": true
+    },
+    {
+        "name": "com.sun.prism.sw.SWPipeline",
+        "allDeclaredFields": true,
+        "allPublicConstructors": true,
+        "allDeclaredConstructors": true,
+        "allDeclaredMethods": true
+    },
+    {
+        "name": "com.sun.prism.es2.ES2Pipeline",
+        "allDeclaredFields": true,
+        "allPublicConstructors": true,
+        "allDeclaredConstructors": true,
+        "allDeclaredMethods": true
+    },
+    {
+        "name": "com.sun.prism.d3d.D3DPipeline",
+        "allDeclaredFields": true,
+        "allPublicConstructors": true,
+        "allDeclaredConstructors": true,
+        "allDeclaredMethods": true
+    },
+    {
+        "name": "com.sun.glass.ui.win.WinPlatformFactory",
+        "allDeclaredFields": true,
+        "allPublicConstructors": true,
+        "allDeclaredConstructors": true,
+        "allDeclaredMethods": true
+    },
+    {
+        "name": "com.sun.glass.ui.win.WinApplication",
+        "allDeclaredFields": true,
+        "allPublicConstructors": true,
+        "allDeclaredConstructors": true,
+        "allDeclaredMethods": true
+    },
+    {
+        "name": "com.sun.glass.ui.win.WinCursor",
+        "allDeclaredFields": true,
+        "allPublicConstructors": true,
+        "allDeclaredConstructors": true,
+        "allDeclaredMethods": true
+    },
+    {
+        "name": "com.sun.glass.ui.win.WinWindow",
+        "allDeclaredFields": true,
+        "allPublicConstructors": true,
+        "allDeclaredConstructors": true,
+        "allDeclaredMethods": true
+    },
+    {
+        "name": "com.sun.glass.ui.win.WinView",
+        "allDeclaredFields": true,
+        "allPublicConstructors": true,
+        "allDeclaredConstructors": true,
+        "allDeclaredMethods": true
+    },
+    {
+        "name": "com.sun.glass.ui.win.WinScreen",
+        "allDeclaredFields": true,
+        "allPublicConstructors": true,
+        "allDeclaredConstructors": true,
+        "allDeclaredMethods": true
+    },
+    {
+        "name": "com.sun.glass.ui.win.WinTimer",
+        "allDeclaredFields": true,
+        "allPublicConstructors": true,
+        "allDeclaredConstructors": true,
+        "allDeclaredMethods": true
+    },
+    {
+        "name": "com.sun.glass.ui.win.WinRobot",
+        "allDeclaredFields": true,
+        "allPublicConstructors": true,
+        "allDeclaredConstructors": true,
+        "allDeclaredMethods": true
+    },
+    {
+        "name": "com.sun.glass.ui.win.WinSystemClipboard",
+        "allDeclaredFields": true,
+        "allPublicConstructors": true,
+        "allDeclaredConstructors": true,
+        "allDeclaredMethods": true
+    },
+    {
+        "name": "com.sun.glass.ui.win.WinDnDClipboard",
+        "allDeclaredFields": true,
+        "allPublicConstructors": true,
+        "allDeclaredConstructors": true,
+        "allDeclaredMethods": true
+    }
+]
